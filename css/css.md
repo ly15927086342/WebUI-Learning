@@ -32,7 +32,7 @@
 
 ## 列表
 |列表|list-style-type|list-style-position|
-|-:-|-:-|-:-|
+|:-|:-|:-|
 |![列表](../img/列表.PNG)|![liststyletype](../img/liststyletype.PNG)|![liststyleposition](../img/liststyleposition.PNG)|
 
 `Tips`
@@ -54,7 +54,7 @@
 ## 盒子模型
 
 |盒子模型|具体属性|
-|-：-|-：-|
+|:-|:-|
 |![盒子模型](../img/盒子模型.PNG)|![盒子模型具体](../img/盒子模型具体.PNG)|
 
 `Tips`
