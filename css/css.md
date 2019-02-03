@@ -85,3 +85,20 @@
 2. block独占一行，可以设置宽高，例如div、table、ul、ol、p等
 3. inline不独占一行，不可以设置宽高，例如span、a
 4. inline-bloc不独占一行，可以设置宽高，例如img
+
+### 浮动定位
+
+`Tips`
+
+1. float:left\|right
+2. clear:left\|right\|both（清除float）
+
+### 层定位
+
+![层定位](../img/层定位.PNG)
+
+`Tips`
+
+1. relative相对直接父元素
+2. absolute相对第一个不是static的父元素，如果都没有，就相对body
+3. 一般是relative和absolute结合使用，父元素relative，子元素absolute
