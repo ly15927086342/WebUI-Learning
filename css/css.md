@@ -31,7 +31,8 @@
 1. CSS超链接必须按一下顺序定义属性：link > visited > hover > active (`L`o`v`e & `Ha`te)
 
 ## 列表
-
+|列表|list-style-type|list-style-position|
+|:-|:-|:-|
 |![列表](../img/列表.PNG)|![liststyletype](../img/liststyletype.PNG)|![liststyleposition](../img/liststyleposition.PNG)|
 
 `Tips`
