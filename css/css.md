@@ -32,9 +32,7 @@
 
 ## 列表
 
-![列表](../img/列表.PNG)
-![liststyletype](../img/liststyletype.PNG)
-![liststyleposition](../img/liststyleposition.PNG)
+|![列表](../img/列表.PNG)|![liststyletype](../img/liststyletype.PNG)|![liststyleposition](../img/liststyleposition.PNG)|
 
 `Tips`
 
