@@ -8,6 +8,7 @@
 
 1. 一行字居中可以用 line-height 等于父容器的 height
 2. <a>不要下划线可以用 text-decoration:none
+3. font:10px/20px;其中，10px是字号，20px是行高
 
 ## 字体属性
 
@@ -102,3 +103,4 @@
 1. relative相对直接父元素
 2. absolute相对第一个不是static的父元素，如果都没有，就相对body
 3. 一般是relative和absolute结合使用，父元素relative，子元素absolute
+4. 若要去掉几张图片之间的间隙，需要对图片父容器设置font-size:0;
