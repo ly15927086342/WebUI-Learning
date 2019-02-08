@@ -44,11 +44,15 @@
 
 ### 过渡transition
 
+|1|2|
+|:-|:-|
 ![transition](../img/transition.PNG)
 ![timingfun](../img/timingfun.PNG)
 
 ### 动画animation
 
+|keyframes|animation|
+|:-|:-|
 ![keyframes](../img/keyframes.PNG)
 ![animation](../img/animation.PNG)
 
